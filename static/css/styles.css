@@ -1,0 +1,67 @@
+.gameGuessPeg{
+    width:27px;
+    height:27px;
+    background:gray;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 27px;
+    cursor: pointer;
+}
+
+.gameCluePeg{
+    width:5px;
+    height:10px;
+    background:gray;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+.colorPeg {
+    width:40px;
+    height:40px;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 27px;
+    cursor: pointer;
+}
+
+#submitGuess {
+    width:200px;
+}
+
+#resetGame {
+    width:200px;
+}
+
+#chooseCode {
+    width:200px;
+}
+
+#sidePegSpacer {
+    margin-top:112px;
+}
+
+.red {
+    background: red;
+}
+
+.green {
+    background: green;
+}
+
+.blue {
+    background: blue;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.white {
+    background: white;
+}
+
+.black {
+    background: black;
+}
